@@ -1,4 +1,4 @@
-### Hi there! 👋 I am Tasha. 
+### Hello lovely people (and robots)! 👋 I am Tasha and here is a bit about my work:
 ### - 🔭 I am currently working on developing algorithms to search for and analyse data for new pulsars (Neutron Stars).
 ### - 🌱 I am exploring interesting/novel ways to utilize Machine Learning Algorithms for pulsar candidate sorting.
 ### - 👯 I am looking to collaborate on exciting data science projects to solve complex real-world problems.
