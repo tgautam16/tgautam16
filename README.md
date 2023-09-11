@@ -4,6 +4,7 @@
 ### - 🌱 These days, I am also exploring interesting/novel ways to utilize Machine Learning Algorithms for pulsar candidate sorting.
 ### - 📫 Feel free to reach out to me at 16.tasha@gmail.com 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tgautam16)](https://github.com/tgautam16/github-readme-stats)
 
 
 
