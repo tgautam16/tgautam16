@@ -1,4 +1,4 @@
-### Hello lovely people (and machines)! 👋 I am Tasha.
+### Hello! 👋 I am Tasha.
 
 👯 I am looking to collaborate on interesting data science projects to solve complex real-world problems.
 
