@@ -2,7 +2,7 @@
 
 👯 I am looking to collaborate on challenging quantitative projects to solve complex real-world problems.
 
-🔭 My expertise lies in quantitative analysis, statistics, programming, data analysis, and data science. 
+🔭 My expertise lies in data science, machine learning, forecasting, statistical modelling, and programming.
 
 📫 Feel free to reach out to me at 16.tasha@gmail.com 
 
