@@ -1,6 +1,6 @@
 ### Hello! 👋 I am Tasha.
 
-👯 I am looking to collaborate on challenging quantitative projects to solve complex real-world problems.
+👯 I am looking to collaborate on challenging data science projects to solve complex real-world problems.
 
 🔭 My expertise lies in data science, machine learning, forecasting, statistical modelling, and programming.
 
